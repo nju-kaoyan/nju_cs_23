@@ -1,8 +1,8 @@
 # nju_cs_23
 
 [![status](https://img.shields.io/badge/状态-更新中-yellowgreen)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
-[![count](https://img.shields.io/badge/资源数-3-blue)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
-[![updatetime](https://img.shields.io/badge/最后更新-2023%2F4%2F24-green)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
+[![count](https://img.shields.io/badge/资源数-4-blue)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
+[![updatetime](https://img.shields.io/badge/最后更新-2023%2F5%2F22-green)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
 [![license](https://img.shields.io/badge/许可协议-CC%20BY--NC--SA%204.0-lightgrey)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 本仓库收录了南京大学计算机科学与技术系**2023考研经验贴**和**回忆版复试题目**。本仓库是[nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan)项目的一部分，访问该项目可以获取往年相关资料。
