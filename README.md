@@ -1,7 +1,7 @@
 # nju_cs_23
 
 [![status](https://img.shields.io/badge/状态-更新中-yellowgreen)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
-[![count](https://img.shields.io/badge/资源数-5-blue)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
+[![count](https://img.shields.io/badge/资源数-6-blue)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
 [![updatetime](https://img.shields.io/badge/最后更新-2023%2F5%2F25-green)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
 [![license](https://img.shields.io/badge/许可协议-CC%20BY--NC--SA%204.0-lightgrey)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
