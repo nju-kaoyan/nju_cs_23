@@ -15,7 +15,7 @@
 
 除非特别说明，本仓库内所有资源采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际（CC BY-NC-SA 4.0）许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
 
-关于本仓库的任何问题均可以提交[Issue](https://github.com/nju-kaoyan/nju_cs_23/issues)或联系[轩](https://github.com/LIU-YX-cn)（liuyuxuanchn@gmail.com）。
+关于本仓库的任何问题均可以提交[Issue](https://github.com/nju-kaoyan/nju_cs_23/issues)或联系[轩](https://github.com/liuyuxn)（liuyuxn@hotmail.com）。
 
 你也可以使用以下命令在本地访问本仓库[Wiki](https://github.com/nju-kaoyan/nju_cs_23/wiki)中的所有内容：
 
